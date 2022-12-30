@@ -1,2 +1,1 @@
-# UAS-raktikumPPB
 # UASPraktikumPPB

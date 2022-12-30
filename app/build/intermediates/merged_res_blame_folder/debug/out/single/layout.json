@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\item_movies.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\item_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_day4.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_day4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_first.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_second.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_second.xml"
+    },
+    {
+        "merged": "com.example.praktikum.app-mergeDebugResources-52:/layout/fragment_favorite_movie.xml",
+        "source": "com.example.praktikum.app-main-55:/layout/fragment_favorite_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_detail.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_movie.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_user.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\item_row_hero.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\item_row_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_day5.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_day5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_day4_second.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_day4_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_day3.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_day3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\activity_second.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_favorite_movie.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_favorite_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_list_movie.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_list_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\item_review.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\item_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-mergeDebugResources-52:\\layout\\fragment_day4_home.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.praktikum.app-main-55:\\layout\\fragment_day4_home.xml"
+    }
+]

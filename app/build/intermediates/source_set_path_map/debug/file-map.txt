@@ -1,0 +1,56 @@
+com.example.praktikum.app-recyclerview-1.1.0-0 C:\Users\Lenovo\.gradle\caches\transforms-3\020244b9cdabe2fcb0027b815fc9caa8\transformed\recyclerview-1.1.0\res
+com.example.praktikum.app-lifecycle-livedata-core-ktx-2.5.1-1 C:\Users\Lenovo\.gradle\caches\transforms-3\03f38cf3ab78f748c53e2f4e54c9ac4c\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.praktikum.app-constraintlayout-2.1.4-2 C:\Users\Lenovo\.gradle\caches\transforms-3\04ad0b4a023e5fc6ca2669406151a6ea\transformed\constraintlayout-2.1.4\res
+com.example.praktikum.app-navigation-fragment-ktx-2.5.2-3 C:\Users\Lenovo\.gradle\caches\transforms-3\04c46c70523b7a7b9f213eeba6c6545b\transformed\navigation-fragment-ktx-2.5.2\res
+com.example.praktikum.app-annotation-experimental-1.1.0-4 C:\Users\Lenovo\.gradle\caches\transforms-3\0d668bbb7f553fd780cc3ea32432440a\transformed\annotation-experimental-1.1.0\res
+com.example.praktikum.app-navigation-fragment-2.5.2-5 C:\Users\Lenovo\.gradle\caches\transforms-3\203ac18a9911e9bb68abce44d4ce1363\transformed\navigation-fragment-2.5.2\res
+com.example.praktikum.app-glide-4.14.2-6 C:\Users\Lenovo\.gradle\caches\transforms-3\3d1955a42ad8645743fc3c95c6f75e7f\transformed\glide-4.14.2\res
+com.example.praktikum.app-coordinatorlayout-1.1.0-7 C:\Users\Lenovo\.gradle\caches\transforms-3\42a1242bd9b281b95b98166e5c9d62ed\transformed\coordinatorlayout-1.1.0\res
+com.example.praktikum.app-lifecycle-process-2.4.1-8 C:\Users\Lenovo\.gradle\caches\transforms-3\4506895b5aacda24b8c4dc29b0b43d4c\transformed\lifecycle-process-2.4.1\res
+com.example.praktikum.app-lifecycle-livedata-ktx-2.5.1-9 C:\Users\Lenovo\.gradle\caches\transforms-3\4ea391d7504f7a189f2430fa02a8d3f9\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.example.praktikum.app-lifecycle-viewmodel-ktx-2.5.1-10 C:\Users\Lenovo\.gradle\caches\transforms-3\51f2cf775ca3e35d1e4a2f2ab4fd5535\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.praktikum.app-appcompat-resources-1.5.1-11 C:\Users\Lenovo\.gradle\caches\transforms-3\5a4c89e7f1da04ed1b7331a641f7b982\transformed\appcompat-resources-1.5.1\res
+com.example.praktikum.app-core-1.8.0-12 C:\Users\Lenovo\.gradle\caches\transforms-3\5b4f0ebc2de8ae8b764bc452a6c78125\transformed\core-1.8.0\res
+com.example.praktikum.app-sqlite-2.2.0-13 C:\Users\Lenovo\.gradle\caches\transforms-3\5e138f71c7d2796c311f656782c31e5e\transformed\sqlite-2.2.0\res
+com.example.praktikum.app-appcompat-1.5.1-14 C:\Users\Lenovo\.gradle\caches\transforms-3\667532d60b8d6522138adca55137767a\transformed\appcompat-1.5.1\res
+com.example.praktikum.app-lifecycle-runtime-ktx-2.5.1-15 C:\Users\Lenovo\.gradle\caches\transforms-3\6b2394b92091bcd90be285f859d1a45a\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.praktikum.app-navigation-runtime-ktx-2.5.2-16 C:\Users\Lenovo\.gradle\caches\transforms-3\71d59e7cd57b14d25d40d6b5264616ef\transformed\navigation-runtime-ktx-2.5.2\res
+com.example.praktikum.app-room-ktx-2.4.3-17 C:\Users\Lenovo\.gradle\caches\transforms-3\79b9f788ab4922393c6eb7e9ba6ebbe7\transformed\room-ktx-2.4.3\res
+com.example.praktikum.app-startup-runtime-1.1.1-18 C:\Users\Lenovo\.gradle\caches\transforms-3\7ade39af25565ef6df4b6ba22127c0ef\transformed\startup-runtime-1.1.1\res
+com.example.praktikum.app-media-1.0.0-19 C:\Users\Lenovo\.gradle\caches\transforms-3\7d1e9f7be3ec064d7e5a69c945564f3e\transformed\media-1.0.0\res
+com.example.praktikum.app-sqlite-framework-2.2.0-20 C:\Users\Lenovo\.gradle\caches\transforms-3\7ead27bc0c28b7d9286811a2d92d37ae\transformed\sqlite-framework-2.2.0\res
+com.example.praktikum.app-viewpager2-1.0.0-21 C:\Users\Lenovo\.gradle\caches\transforms-3\804df020b7620b490565a3aab0c66b91\transformed\viewpager2-1.0.0\res
+com.example.praktikum.app-activity-ktx-1.5.1-22 C:\Users\Lenovo\.gradle\caches\transforms-3\806a78dc1196ef62bece4042fc3c5220\transformed\activity-ktx-1.5.1\res
+com.example.praktikum.app-navigation-runtime-2.5.2-23 C:\Users\Lenovo\.gradle\caches\transforms-3\8313c4e8ee5d92f2fdd1b16328534900\transformed\navigation-runtime-2.5.2\res
+com.example.praktikum.app-activity-1.5.1-24 C:\Users\Lenovo\.gradle\caches\transforms-3\85023d46dc4b36fe156dd36000798721\transformed\activity-1.5.1\res
+com.example.praktikum.app-lifecycle-viewmodel-savedstate-2.5.1-25 C:\Users\Lenovo\.gradle\caches\transforms-3\8a7b7dbb6be6df69d4c05b0a78fa6b9a\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.praktikum.app-fragment-ktx-1.5.2-26 C:\Users\Lenovo\.gradle\caches\transforms-3\8d69c378e04846b2609b99545d34feb1\transformed\fragment-ktx-1.5.2\res
+com.example.praktikum.app-navigation-common-2.5.2-27 C:\Users\Lenovo\.gradle\caches\transforms-3\90dd3a817de98669ceca641523192b30\transformed\navigation-common-2.5.2\res
+com.example.praktikum.app-lifecycle-viewmodel-2.5.1-28 C:\Users\Lenovo\.gradle\caches\transforms-3\9a6c2fb04b1bb608e55aee047b956b88\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.praktikum.app-room-runtime-2.4.3-29 C:\Users\Lenovo\.gradle\caches\transforms-3\a51cf2bfc9acb90206e0d6e9e4da9e1b\transformed\room-runtime-2.4.3\res
+com.example.praktikum.app-lifecycle-runtime-2.5.1-30 C:\Users\Lenovo\.gradle\caches\transforms-3\a57c7716a5e1df474c1e5376e0d99ac0\transformed\lifecycle-runtime-2.5.1\res
+com.example.praktikum.app-lifecycle-livedata-core-2.5.1-31 C:\Users\Lenovo\.gradle\caches\transforms-3\a5b32b6cefafb965e4d52212c15423ea\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.praktikum.app-transition-1.4.1-32 C:\Users\Lenovo\.gradle\caches\transforms-3\aab488512abb499ea6031f480f9bac29\transformed\transition-1.4.1\res
+com.example.praktikum.app-drawerlayout-1.1.1-33 C:\Users\Lenovo\.gradle\caches\transforms-3\c1e67adaf8e753ede21de05035a7ba1f\transformed\drawerlayout-1.1.1\res
+com.example.praktikum.app-emoji2-views-helper-1.2.0-34 C:\Users\Lenovo\.gradle\caches\transforms-3\c970fb12e2e2530d3a3148c7bac90262\transformed\emoji2-views-helper-1.2.0\res
+com.example.praktikum.app-slidingpanelayout-1.2.0-35 C:\Users\Lenovo\.gradle\caches\transforms-3\cbdda1e18469b66394fd4b316deffa8e\transformed\slidingpanelayout-1.2.0\res
+com.example.praktikum.app-savedstate-1.2.0-36 C:\Users\Lenovo\.gradle\caches\transforms-3\cd88e0a3f19338246f9574fc59079e35\transformed\savedstate-1.2.0\res
+com.example.praktikum.app-navigation-common-ktx-2.5.2-37 C:\Users\Lenovo\.gradle\caches\transforms-3\d7308feaa448346d7c0f41761042f268\transformed\navigation-common-ktx-2.5.2\res
+com.example.praktikum.app-emoji2-1.2.0-38 C:\Users\Lenovo\.gradle\caches\transforms-3\da48a8d9492694346a86fc86ba4a4f76\transformed\emoji2-1.2.0\res
+com.example.praktikum.app-navigation-ui-ktx-2.5.2-39 C:\Users\Lenovo\.gradle\caches\transforms-3\dcbc00387e29cbd90cbae296d623caea\transformed\navigation-ui-ktx-2.5.2\res
+com.example.praktikum.app-window-1.0.0-40 C:\Users\Lenovo\.gradle\caches\transforms-3\dd9c9efe61c6bcc45efb90dbc281efd1\transformed\window-1.0.0\res
+com.example.praktikum.app-core-ktx-1.8.0-41 C:\Users\Lenovo\.gradle\caches\transforms-3\e6e65a8e4acf4a11e180fe862dd71dc5\transformed\core-ktx-1.8.0\res
+com.example.praktikum.app-savedstate-ktx-1.2.0-42 C:\Users\Lenovo\.gradle\caches\transforms-3\e90c94c8e2680f648282c7050b6291de\transformed\savedstate-ktx-1.2.0\res
+com.example.praktikum.app-fragment-1.5.2-43 C:\Users\Lenovo\.gradle\caches\transforms-3\ee7c19b441fb27b74880d53a167abcf2\transformed\fragment-1.5.2\res
+com.example.praktikum.app-lifecycle-livedata-2.5.1-44 C:\Users\Lenovo\.gradle\caches\transforms-3\f0403aad342206429a9f4081d8d65214\transformed\lifecycle-livedata-2.5.1\res
+com.example.praktikum.app-navigation-ui-2.5.2-45 C:\Users\Lenovo\.gradle\caches\transforms-3\f0ee4f625ad407bd80e36b9d1e487c8b\transformed\navigation-ui-2.5.2\res
+com.example.praktikum.app-material-1.6.1-46 C:\Users\Lenovo\.gradle\caches\transforms-3\f9152b033fde59f5ca45a72a3d559041\transformed\material-1.6.1\res
+com.example.praktikum.app-cardview-1.0.0-47 C:\Users\Lenovo\.gradle\caches\transforms-3\ffa621b045168f3978544764e72b6c93\transformed\cardview-1.0.0\res
+com.example.praktikum.app-pngs-48 D:\My Project\UAS PPB\app\build\generated\res\pngs\debug
+com.example.praktikum.app-resValues-49 D:\My Project\UAS PPB\app\build\generated\res\resValues\debug
+com.example.praktikum.app-rs-50 D:\My Project\UAS PPB\app\build\generated\res\rs\debug
+com.example.praktikum.app-packageDebugResources-51 D:\My Project\UAS PPB\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.praktikum.app-packageDebugResources-52 D:\My Project\UAS PPB\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.praktikum.app-merged_res-53 D:\My Project\UAS PPB\app\build\intermediates\merged_res\debug
+com.example.praktikum.app-debug-54 D:\My Project\UAS PPB\app\src\debug\res
+com.example.praktikum.app-main-55 D:\My Project\UAS PPB\app\src\main\res
